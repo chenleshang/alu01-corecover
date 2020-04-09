@@ -20,5 +20,17 @@
 		"authorList": [
 			"Chen Li"
 		]
+	},
+	"java_cup/version.java": {
+		"repoName": "alu01-corecover",
+		"owner": "Chen Li",
+		"Usage": "TEST RELATIVE PATH",
+		"committedDate": "2018-03-24T00:28:05Z",
+		"commitID": "929b98c",
+		"url": "https://github.com/chenleshang/alu01-corecover",
+		"collabList": [],
+		"authorList": [
+			"Chen Li"
+		]
 	}
 }
