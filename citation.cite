@@ -21,5 +21,16 @@
 		"authorList": [
 			"Chen Li"
 		]
+	},
+	"/": {
+		"repoName": "alu01-corecover",
+		"owner": "Leshang Chen",
+		"committedDate": "2020-04-09T16:31:17Z",
+		"commitID": "da8450f",
+		"url": "https://github.com/chenleshang/alu01-corecover",
+		"collabList": [],
+		"authorList": [
+			"Chen Li"
+		]
 	}
 }
